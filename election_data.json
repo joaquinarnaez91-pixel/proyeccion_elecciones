@@ -1,0 +1,67 @@
+{
+  "last_update": "2026-04-14 18:30:00",
+  "completion_rate": 0.75,
+  "regional_completion": {
+    "Lima": 0.89,
+    "Provinces": 0.60,
+    "National": 0.75
+  },
+  "candidates": [
+    {
+      "name": "KEIKO FUJIMORI - FUERZA POPULAR",
+      "current_votes": 2534000,
+      "current_pct": 16.88,
+      "projected_votes": 3245000,
+      "projected_pct": 17.2,
+      "urban_strength": 0.65,
+      "profile": "Urbano-Moderado"
+    },
+    {
+      "name": "RAFAEL LÓPEZ ALIAGA - RENOVACIÓN POPULAR",
+      "current_votes": 1920000,
+      "current_pct": 12.8,
+      "projected_votes": 2380000,
+      "projected_pct": 12.62,
+      "urban_strength": 0.8,
+      "profile": "Muy Urbano"
+    },
+    {
+      "name": "JORGE NIETO MONTESINOS - SOMOS PERÚ",
+      "current_votes": 1778000,
+      "current_pct": 11.85,
+      "projected_votes": 2290000,
+      "projected_pct": 12.14,
+      "urban_strength": 0.55,
+      "profile": "Mixto"
+    },
+    {
+      "name": "VERÓNIKA MENDOZA - JUNTOS POR EL PERÚ",
+      "current_votes": 1650000,
+      "current_pct": 11.0,
+      "projected_votes": 2350000,
+      "projected_pct": 12.46,
+      "urban_strength": 0.3,
+      "profile": "Rural"
+    },
+    {
+      "name": "CÉSAR ACUÑA - ALIANZA PARA EL PROGRESO",
+      "current_votes": 1500000,
+      "current_pct": 10.0,
+      "projected_votes": 1980000,
+      "projected_pct": 10.5,
+      "urban_strength": 0.45,
+      "profile": "Regional"
+    },
+    {
+      "name": "YONHY LESCANO - ACCIÓN POPULAR",
+      "current_votes": 1350000,
+      "current_pct": 9.0,
+      "projected_votes": 1820000,
+      "projected_pct": 9.65,
+      "urban_strength": 0.4,
+      "profile": "Provincial"
+    }
+  ],
+  "total_votes_counted": 15000000,
+  "source": "Real data - April 14, 2026 (~75% counted)"
+}
